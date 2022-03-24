@@ -1,1 +1,1 @@
-# WeightPred
+#Fish weight prediction app
